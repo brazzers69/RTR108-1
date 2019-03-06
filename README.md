@@ -2,17 +2,17 @@
 Studiju kursa Datormācība (speckurss) elektroniskā klade
 ## 1. nodarbības pieraksti
 Tiek izpildīts darbs P01, piešķirts `pagaidu lietotājs`. Iepazīšanās ar Sakai vidi - https://edx2.etf.rtu.lv
----
+
 ## 2. nodarbības pieraksti
 Iepazīšanās ar GitHub vidi, Git versiju kontroles sistēmu. Tiek izveidots skripts automātiskai versiju augšupielādei repozitorijā.  
 Mācīšanās formēt README.md (Markdown) tekstus.  
 _1. rinda_  
 **2. rinda**  
 `3. rinda`  
----
+
 ## 3. nodarbības pieraksti
 Tiek augšupielādēts repozitorijā praktiskais darbs P01.
----
+
 ## 4. nodarbības pieraksti
 >Iepazīšanās ar Linux OS komandām
 * `uname` - Operētājistēmas nosaukums.
@@ -41,7 +41,7 @@ Tiek augšupielādēts repozitorijā praktiskais darbs P01.
 * `PATH=$PATH:~/` -
 * `history` - Uz ekrāna izvada termināļa ievades vēsturi.
 * `history > _nosaukums.txt_` - Izvada termināļa ievades vēsturi failā ar nosaukumu _nosaukums.txt_
----
+
 ## 5. nodarbības pieraksti
 ###Programmēšana Shell'ā.
 **Katru piemēru tēmu secinājumus skatīt mapes Shell README.md failā!**
