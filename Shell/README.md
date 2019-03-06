@@ -1,5 +1,5 @@
-#Secinājumi  
-###Iepazīšanās ar sekojošiem piemēriem:
+# Secinājumi  
+### Iepazīšanās ar sekojošiem piemēriem:
 
 *    Shell Scripting Tutorial
 *    Using Shell Variables
@@ -12,7 +12,7 @@
 *    Shell Input/Output Redirections
 *    Shell Functions
 
-###Papildus piemēri:
+### Papildus piemēri:
 
 *    Shell Substitution
 *    Shell Quoting Mechanisms
