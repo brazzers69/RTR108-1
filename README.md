@@ -43,5 +43,5 @@ Tiek augšupielādēts repozitorijā praktiskais darbs P01.
 * `history > _nosaukums.txt_` - Izvada termināļa ievades vēsturi failā ar nosaukumu _nosaukums.txt_
 
 ## 5. nodarbības pieraksti
-###Programmēšana Shell'ā.
+### Programmēšana Shell'ā.
 **Katru piemēru tēmu secinājumus skatīt mapes Shell README.md failā!**
