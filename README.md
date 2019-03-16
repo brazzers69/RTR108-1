@@ -45,3 +45,12 @@ Tiek augšupielādēts repozitorijā praktiskais darbs P01.
 ## 5. nodarbības pieraksti
 ### Programmēšana Shell'ā.
 **Katru piemēru tēmu secinājumus skatīt mapes Shell README.md failā!**
+
+## 6. nodarbības pieraksti
+Tiek pabeigti 5. nedēļas darbi saistībā ar shell; Programmēšanas uzdevums (CodesCracker).
+
+## 7. nodarbības pieraksti
+### Iepazīšanās ar LaTeX vidi
+Lekcija. Reģistrācija https://www.overleaf.com darbam ar LaTeX tiešsaistē. Praktiskā darba izpilde - dokumentu izveide LaTeX vidē(Atskaite 1.Lab.d.; atskaites ".ltx" augšupielāde GitHub.)
+## 8. nodarbības pieraksti
+### Kvalitatīvu dokumentu veidošana LaTeX vidē
