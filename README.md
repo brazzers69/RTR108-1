@@ -1,7 +1,7 @@
 # RTR108
 Studiju kursa Datormācība (speckurss) elektroniskā klade
 ## 1. nodarbības pieraksti
-Tiek izpildīts darbs P01, piešķirts `pagaidu lietotājs`. Iepazīšanās ar Sakai vidi - https://edx2.etf.rtu.lv
+Tiek izpildīts darbs P01, piešķirts `pagaidu lietotājs`. Iepazīšanās ar Sakai vidi - https://edx2.etf.rtu.lv/portal
 
 ## 2. nodarbības pieraksti
 Iepazīšanās ar GitHub vidi, Git versiju kontroles sistēmu. Tiek izveidots skripts automātiskai versiju augšupielādei repozitorijā.  
