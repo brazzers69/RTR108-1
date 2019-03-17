@@ -5,7 +5,7 @@ file="/var/www/tutorialspoint/unix/test.sh"
 if [ -r $file ]
 then
    echo "File has read access"
-els e
+else
    echo "File does not have read access"
 fi
 

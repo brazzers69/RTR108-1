@@ -1,13 +1,13 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "Kā Jūs sauc?"
 read VARDS
 echo "Sveicināti, $VARDS! Vai šodien jūtaties labi? (Jā/Nē)"
 read ATB
-if [ $ATB = "Jā" ]
+if [[ $ATB = "Jā" ]]
 then
 echo "Brīnišķīgi! Jūsu atbilde bija $ATB!"
-elif [ $ATB = "Nē" ]
+elif [[ $ATB = "Nē" ]]
 then
 echo "Jūsu atbilde bija $ATB. Vai kaut kas ir noticis?"
 else
