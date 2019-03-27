@@ -1,0 +1,11 @@
+\BOOKMARK [0][-]{chapter.1}{Teorētiskā daļa}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Ķēdes aprēķins}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Praktiskā daļa}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Darbs ar gEDA programmām}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Darbs\040ar\040gschem}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.2}{Darbs\040ar\040gnetlist}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.3}{Darbs\040ar\040ngspice}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Darbs ar QUCS programmām}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Pricipālā shēma:}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Līdzstrāvas simulācijas grafiks:}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.3}{Sweep simulācijas līdzstrāvas grafiks un tabula:}{section.2.2}% 11
